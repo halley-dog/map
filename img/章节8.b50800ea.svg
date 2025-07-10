@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.37 20.62">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        font-family: Soligant, Soligant;
+        font-size: 14.99px;
+      }
+
+      .cls-4 {
+        fill: #d0bfae;
+      }
+
+      .cls-5 {
+        font-family: FZFW-ZhuZiGuDianS-LMC--GB1-0, 'FZFW ZhuZi GuDianS LMC';
+        letter-spacing: 0em;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 11px;
+      }
+
+      .cls-6 {
+        font-family: ChillDuanHeiSongLight, 'ChillDuanHeiSongLight GBpc-EUC-H';
+      }
+
+      .cls-2 {
+        letter-spacing: .04em;
+      }
+
+      .cls-7 {
+        fill: #f3eae4;
+        font-family: ValkyRegular, Valky;
+        font-size: 14.34px;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: #52716a;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1_图像" data-name="图层 1 图像">
+    <text class="cls-4" transform="translate(23.6 14.32)"><tspan class="cls-1" x="0" y="0">Her</tspan><tspan class="cls-2" x="21.9" y="0">s</tspan><tspan class="cls-3" x="27.77" y="0">ia</tspan><tspan class="cls-6" x="37.74" y="-.58">·</tspan><tspan class="cls-5" x="48.75" y="-.79">赫西亚王国</tspan></text>
+    <path class="cls-8" d="m14.06,0h-7.66c-.92,0-1.77.49-2.23,1.29L.34,7.92c-.46.8-.46,1.78,0,2.57l3.83,6.63c.46.8,1.31,1.29,2.23,1.29h7.66c.92,0,1.77-.49,2.23-1.29l3.83-6.63c.46-.8.46-1.78,0-2.57l-3.83-6.63c-.46-.8-1.31-1.29-2.23-1.29Z"/>
+    <text class="cls-7" transform="translate(1.96 14.39)"><tspan x="0" y="0">08</tspan></text>
+  </g>
+</svg>

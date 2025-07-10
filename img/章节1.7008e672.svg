@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 167.06 20.39">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        font-family: Soligant, Soligant;
+        font-size: 14.99px;
+      }
+
+      .cls-5 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        fill: #d0bfae;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-7 {
+        font-family: ChillDuanHeiSongLight, 'ChillDuanHeiSongLight GBpc-EUC-H';
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 11px;
+      }
+
+      .cls-9 {
+        fill: #a5462f;
+      }
+
+      .cls-8 {
+        font-family: FZFW-ZhuZiGuDianS-LMC--GB1-0, 'FZFW ZhuZi GuDianS LMC';
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        fill: #f3eae4;
+        font-family: ValkyRegular, Valky;
+        font-size: 14.34px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.13em;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1_图像" data-name="图层 1 图像">
+    <text class="cls-6" transform="translate(24.05 14.55)"><tspan class="cls-4" x="0" y="0">W</tspan><tspan class="cls-1" x="13.28" y="0">eins</tspan><tspan class="cls-3" x="36.15" y="0">c</tspan><tspan class="cls-1" x="42.7" y="0">h</tspan><tspan class="cls-2" x="50.2" y="0">t</tspan><tspan class="cls-1" x="54.59" y="0">at</tspan><tspan class="cls-7" x="65.98" y="-.58">·</tspan><tspan class="cls-8" x="76.99" y="-.79">韦茵施塔王国</tspan></text>
+    <path class="cls-9" d="m14.06,0h-7.66c-.92,0-1.77.49-2.23,1.29L.34,7.92c-.46.8-.46,1.78,0,2.57l3.83,6.63c.46.8,1.31,1.29,2.23,1.29h7.66c.92,0,1.77-.49,2.23-1.29l3.83-6.63c.46-.8.46-1.78,0-2.57l-3.83-6.63c-.46-.8-1.31-1.29-2.23-1.29Z"/>
+    <text class="cls-10" transform="translate(3.57 14.16)"><tspan class="cls-5" x="0" y="0">0</tspan><tspan x="8.8" y="0">1</tspan></text>
+  </g>
+</svg>

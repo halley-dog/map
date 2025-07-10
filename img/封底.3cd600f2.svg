@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1248.42 98.07">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #161e22;
+        stroke: #d0bfae;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 74.88px;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #d0bfae;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: ValkyRegular, Valky;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        font-family: FZFW-ZhuZiGuDianS-LMC--GB1-0, 'FZFW ZhuZi GuDianS LMC';
+        font-size: 55.09px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        font-size: 38.48px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1_图像" data-name="图层 1 图像">
+    <rect class="cls-2" x=".5" y=".5" width="1247.42" height="75.5" rx="15.34" ry="15.34"/>
+    <text class="cls-3" transform="translate(13.72 65.53)"><tspan x="0" y="0">S</tspan><tspan class="cls-7" x="41.83" y="0">a</tspan><tspan x="83.62" y="0">il</tspan></text>
+    <text class="cls-5" transform="translate(133.48 36.83)"><tspan x="0" y="0">i</tspan><tspan class="cls-6" x="8.49" y="0">n</tspan><tspan class="cls-8" x="30.53" y="0">t</tspan><tspan x="41.98" y="0">o</tspan><tspan x="0" y="28.86">t</tspan><tspan class="cls-1" x="12.8" y="28.86">h</tspan><tspan x="34.54" y="28.86">eSouth</tspan></text>
+    <text class="cls-4" transform="translate(1012.28 58.85)"><tspan x="0" y="0">南方航路</tspan></text>
+  </g>
+</svg>

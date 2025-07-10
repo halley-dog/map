@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179.17 21.12">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-size: 14.99px;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        font-family: Soligant, Soligant;
+      }
+
+      .cls-2 {
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-6 {
+        fill: #e6cab3;
+        stroke: #161e22;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        fill: #d0bfae;
+      }
+
+      .cls-3 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-4 {
+        letter-spacing: .01em;
+      }
+
+      .cls-8 {
+        font-family: ChillDuanHeiSongLight, 'ChillDuanHeiSongLight GBpc-EUC-H';
+      }
+
+      .cls-8, .cls-9 {
+        font-size: 11px;
+      }
+
+      .cls-9 {
+        font-family: FZFW-ZhuZiGuDianS-LMC--GB1-0, 'FZFW ZhuZi GuDianS LMC';
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        fill: #161e22;
+        font-family: ValkyRegular, Valky;
+        font-size: 14.34px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1_图像" data-name="图层 1 图像">
+    <text class="cls-7" transform="translate(24.1 14.89)"><tspan class="cls-3" x="0" y="0">T</tspan><tspan class="cls-1" x="8.2" y="0">emini</tspan><tspan class="cls-4" x="40.5" y="0">u</tspan><tspan class="cls-1" x="48.23" y="0">s</tspan><tspan class="cls-2" x="53.51" y="0">.</tspan><tspan class="cls-5" x="57.08" y="0">D</tspan><tspan class="cls-8" x="67" y="-.58">·</tspan><tspan class="cls-9" x="78" y="-.79">忒弥纽斯自治地</tspan></text>
+    <path class="cls-6" d="m14.56.5h-7.66c-.92,0-1.77.49-2.23,1.29L.84,8.42c-.46.8-.46,1.78,0,2.57l3.83,6.63c.46.8,1.31,1.29,2.23,1.29h7.66c.92,0,1.77-.49,2.23-1.29l3.83-6.63c.46-.8.46-1.78,0-2.57l-3.83-6.63c-.46-.8-1.31-1.29-2.23-1.29Z"/>
+    <text class="cls-10" transform="translate(2.46 14.89)"><tspan x="0" y="0">09</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148.6 20.89">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        font-family: Soligant, Soligant;
+        font-size: 14.99px;
+      }
+
+      .cls-6 {
+        fill: #e6cab3;
+        stroke: #161e22;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        fill: #d0bfae;
+      }
+
+      .cls-8 {
+        font-family: ChillDuanHeiSongLight, 'ChillDuanHeiSongLight GBpc-EUC-H';
+        letter-spacing: 0em;
+      }
+
+      .cls-8, .cls-9 {
+        font-size: 11px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        font-family: FZFW-ZhuZiGuDianS-LMC--GB1-0, 'FZFW ZhuZi GuDianS LMC';
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        fill: #161e22;
+        font-family: ValkyRegular, Valky;
+        font-size: 14.34px;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1_图像" data-name="图层 1 图像">
+    <text class="cls-7" transform="translate(24.1 14.66)"><tspan class="cls-1" x="0" y="0">C</tspan><tspan class="cls-2" x="9.71" y="0">h</tspan><tspan class="cls-1" x="16.98" y="0">u</tspan><tspan class="cls-5" x="24.49" y="0">r</tspan><tspan class="cls-3" x="29.84" y="0">c</tspan><tspan class="cls-4" x="36.39" y="0">h Island</tspan><tspan class="cls-8" x="80.22" y="-.58">·</tspan><tspan class="cls-9" x="91.22" y="-.79">圣章会</tspan></text>
+    <path class="cls-6" d="m14.56.5h-7.66c-.92,0-1.77.49-2.23,1.29L.84,8.42c-.46.8-.46,1.78,0,2.57l3.83,6.63c.46.8,1.31,1.29,2.23,1.29h7.66c.92,0,1.77-.49,2.23-1.29l3.83-6.63c.46-.8.46-1.78,0-2.57l-3.83-6.63c-.46-.8-1.31-1.29-2.23-1.29Z"/>
+    <text class="cls-10" transform="translate(7.27 14.66)"><tspan x="0" y="0">11</tspan></text>
+  </g>
+</svg>
